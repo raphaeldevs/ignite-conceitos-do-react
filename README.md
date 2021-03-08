@@ -16,6 +16,6 @@ Desafio 01 - Conceitos do React
 
 ### Requisitos
 
-- [ ] Adicionar uma nova tarefa
+- [x] Adicionar uma nova tarefa
 - [ ] Remover uma tarefa
 - [ ] Marcar e desmarcar uma tarefa como concluída
