@@ -19,3 +19,6 @@ Desafio 01 - Conceitos do React
 - [x] Adicionar uma nova tarefa
 - [x] Remover uma tarefa
 - [x] Marcar e desmarcar uma tarefa como concluída
+
+## 👨‍🎓 Nota
+<img src="./.github/grade.png" alt="Nota do desafio">
